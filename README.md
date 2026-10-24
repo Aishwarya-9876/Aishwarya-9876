@@ -22,14 +22,14 @@
 <!-- ABOUT ME SECTION -->
 <h2>💫 About Me</h2>
 
-<table>
+<table cellpadding="4" cellspacing="0">
 <tr>
 <td width="56%" valign="middle">
 
-💻 I'm currently building scalable web applications and interactive UIs using the **MERN stack**.<br><br>
-🌱 I'm currently learning **Advanced System Design and High-Level Design**.<br><br>
-🎯 I'm actively looking for **Full-Time SDE, Frontend, and Full-Stack Development roles**.<br><br>
-💬 Ask me about **Web Development, MERN Stack and Data Structures & Algorithms**.<br><br>
+💻 I'm currently building scalable web applications and interactive UIs using the **MERN stack**.<br>
+🌱 I'm currently learning **Advanced System Design and High-Level Design**.<br>
+🎯 I'm actively looking for **Full-Time SDE, Frontend, and Full-Stack Development roles**.<br>
+💬 Ask me about **Web Development, MERN Stack and Data Structures & Algorithms**.<br>
 📩 How to reach me: <a href="mailto:aishwarya15042006@gmail.com">aishwarya15042006@gmail.com</a>
 
 </td>
