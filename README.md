@@ -1,4 +1,15 @@
 
+<!-- PROFESSIONAL PURPLE ANIMATED HEADER -->
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Aishwarya%20Maloth&fontSize=48&fontColor=F5F0FF&fontAlignY=38&animation=fadeIn&desc=COMPETITIVE%20PROGRAMMER%20%7C%20FULL%20STACK%20WEB%20DEVELOPER%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=68&descColor=D8B4FE&color=0:10051F,35:24103F,70:3B1764,100:10051F"
+  width="100%"
+  alt="Aishwarya Maloth — Software Developer"
+/>
+
+</div>
+
 <!-- ========== PURPLE NEON ANIMATED HEADER ========== -->
 
 <div align="center">
