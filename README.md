@@ -17,33 +17,30 @@
 
 <!-- =============== ABOUT ME =============== -->
 
-<table>
-<tr>
-<td width="55%" valign="middle">
 
+
+<!-- ABOUT ME SECTION -->
 <h2>💫 About Me</h2>
 
-💻 I'm currently building scalable web applications and interactive UIs using the <strong>MERN stack</strong>.<br/><br/>
+<table>
+<tr>
+<td width="56%" valign="middle">
 
-🌱 I'm currently learning <strong>Advanced System Design and High-Level Design</strong>.<br/><br/>
-
-🎯 I'm actively looking for <strong>Full-Time SDE, Frontend, and Full-Stack Development roles</strong>.<br/><br/>
-
-💬 Ask me about <strong>Web Development, MERN Stack and Data Structures & Algorithms</strong>.<br/><br/>
-
+💻 I'm currently building scalable web applications and interactive UIs using the **MERN stack**.<br><br>
+🌱 I'm currently learning **Advanced System Design and High-Level Design**.<br><br>
+🎯 I'm actively looking for **Full-Time SDE, Frontend, and Full-Stack Development roles**.<br><br>
+💬 Ask me about **Web Development, MERN Stack and Data Structures & Algorithms**.<br><br>
 📩 How to reach me: <a href="mailto:aishwarya15042006@gmail.com">aishwarya15042006@gmail.com</a>
 
 </td>
+<td width="44%" align="center" valign="middle">
 
-<td width="45%" align="center" valign="middle">
-
-
-<img src="https://raw.githubusercontent.com/Aishwarya-9876/Aishwarya-9876/main/assets/woman-coding.png" width="100%" alt="Cartoon woman coding in a dark neon workspace"/>
-
+<img src="https://raw.githubusercontent.com/Aishwarya-9876/Aishwarya-9876/main/assets/woman-coding.png" width="100%" alt="Woman coding illustration"/>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
