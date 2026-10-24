@@ -1,19 +1,14 @@
 
-<!-- =============== ANIMATED PURPLE HEADER =============== -->
+<!-- ========== PURPLE NEON ANIMATED HEADER ========== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:1E103B,70:6D28D9,100:09090B&height=200&section=header&text=Aishwarya%20Maloth&fontSize=50&fontColor=EDE9FE&fontAlignY=38&animation=fadeIn" width="100%" alt="Aishwarya Maloth"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=145&text=Aishwarya%20Maloth&fontSize=50&fontColor=EDE9FE&stroke=A855F7&strokeWidth=2&color=0:09000F,35:1A0733,70:581C87,100:09000F&animation=twinkling&fontAlignY=48" width="100%" alt="Aishwarya Maloth"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPER;FULL-STACK+DEVELOPER;COMPETITIVE+PROGRAMMER;MERN+STACK+DEVELOPER" alt="Animated developer roles"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aishwarya-maloth-4a6b762a5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Aishwarya-9876"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:aishwarya15042006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&height=30&lines=SOFTWARE+DEVELOPER+%7C+FULL-STACK;MERN+STACK+DEVELOPER;COMPETITIVE+PROGRAMMER" alt="Animated developer title"/>
 
 </div>
+
 
 ---
 
