@@ -1,49 +1,47 @@
 
-<!-- ========== ANIMATED DARK HEADER ========== -->
+<!-- =============== ANIMATED PURPLE HEADER =============== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Aishwarya%20Maloth&fontSize=48&fontColor=FFFFFF&stroke=7C3AED&strokeWidth=2&color=0:09090B,50:17133B,100:082F49&animation=fadeIn&fontAlignY=45" width="100%" alt="Aishwarya Maloth | Software Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:1E103B,70:6D28D9,100:09090B&height=200&section=header&text=Aishwarya%20Maloth&fontSize=50&fontColor=EDE9FE&fontAlignY=38&animation=fadeIn" width="100%" alt="Aishwarya Maloth"/>
 
-<p>
-<b>SOFTWARE DEVELOPER &nbsp; | &nbsp; FULL-STACK &nbsp; | &nbsp; COMPETITIVE PROGRAMMER</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPER;FULL-STACK+DEVELOPER;COMPETITIVE+PROGRAMMER;MERN+STACK+DEVELOPER" alt="Animated developer roles"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aishwarya-maloth-4a6b762a5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Aishwarya-9876"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:aishwarya15042006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-<!-- ========== ABOUT ME + CARTOON CODER ========== -->
+<!-- =============== ABOUT ME =============== -->
 
 <table>
 <tr>
-<td width="52%" valign="middle">
+<td width="55%" valign="middle">
 
-<h2>👩‍💻 About Me</h2>
+<h2>💫 About Me</h2>
 
-💻 I'm currently building scalable web applications and interactive UIs using the **MERN stack**.
+💻 I'm currently building scalable web applications and interactive UIs using the <strong>MERN stack</strong>.<br/><br/>
 
-<br/><br/>
+🌱 I'm currently learning <strong>Advanced System Design and High-Level Design</strong>.<br/><br/>
 
-🌱 I'm currently learning **Advanced System Design and High-Level Design**.
+🎯 I'm actively looking for <strong>Full-Time SDE, Frontend, and Full-Stack Development roles</strong>.<br/><br/>
 
-<br/><br/>
+💬 Ask me about <strong>Web Development, MERN Stack and Data Structures & Algorithms</strong>.<br/><br/>
 
-🎯 I'm actively looking for **Full-Time SDE, Frontend, and Full-Stack Development roles**.
-
-<br/><br/>
-
-💬 Ask me about **Web Development, MERN Stack and Data Structures & Algorithms**.
-
-<br/><br/>
-
-📩 How to reach me: [aishwarya15042006@gmail.com](mailto:aishwarya15042006@gmail.com)
+📩 How to reach me: <a href="mailto:aishwarya15042006@gmail.com">aishwarya15042006@gmail.com</a>
 
 </td>
 
-<td width="48%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img src="./assets/woman-coding.png" width="100%" alt="Cartoon woman coding in a dark neon workspace"/>
+
+<img src="https://raw.githubusercontent.com/Aishwarya-9876/Aishwarya-9876/main/assets/woman-coding.png" width="100%" alt="Cartoon woman coding in a dark neon workspace"/>
+
 
 </td>
 </tr>
@@ -51,41 +49,24 @@
 
 ---
 
-<!-- ========== SOCIAL LINKS ========== -->
+<!-- =============== SOCIAL PROFILES =============== -->
 
-<h2 align="left">🚀 Connect With Me</h2>
+<h2>🚀 Connect With Me</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aishwarya-maloth-4a6b762a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/Aishwarya-9876">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/aishwarya9876">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/aishwarya15042006">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/aishwarya1504201">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-&nbsp;
-<a href="mailto:aishwarya15042006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://www.linkedin.com/in/aishwarya-maloth-4a6b762a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Aishwarya-9876"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.codechef.com/users/aishwarya9876"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://codeforces.com/profile/aishwarya15042006"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://www.hackerrank.com/profile/aishwarya1504201"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="mailto:aishwarya15042006@gmail.com"><img src="https://img.shields.io/badge/Email-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-<!-- ========== TECH STACK ========== -->
+<!-- =============== TECH STACK =============== -->
 
 <h2>⚡ Tech Stack</h2>
 
@@ -130,7 +111,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
@@ -155,7 +136,7 @@
 
 ---
 
-<!-- ========== GITHUB STATS ========== -->
+<!-- =============== GITHUB STATS =============== -->
 
 <h2>📊 GitHub Stats</h2>
 
@@ -175,12 +156,12 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aishwarya-9876&label=PROFILE+VISITORS&color=7C3AED&style=for-the-badge" alt="Profile visitor count"/>
+<img src="https://komarev.com/ghpvc/?username=Aishwarya-9876&label=PROFILE+VISITORS&color=7C3AED&style=for-the-badge" alt="Profile visitors"/>
 
 <br/><br/>
 
-**✨ Always Learning • Always Building • Always Improving ✨**
+<b>✨ Always Learning • Always Building • Always Improving ✨</b>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:082F49,50:312E81,100:09090B&height=100&section=footer" width="100%" alt="Decorative dark footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:4C1D95,100:09090B&height=100&section=footer" width="100%" alt="Purple gradient footer"/>
 
 </div>
