@@ -10,15 +10,7 @@
 
 </div>
 
-<!-- ========== PURPLE NEON ANIMATED HEADER ========== -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=145&text=Aishwarya%20Maloth&fontSize=50&fontColor=EDE9FE&stroke=A855F7&strokeWidth=2&color=0:09000F,35:1A0733,70:581C87,100:09000F&animation=twinkling&fontAlignY=48" width="100%" alt="Aishwarya Maloth"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&height=30&lines=SOFTWARE+DEVELOPER+%7C+FULL-STACK;MERN+STACK+DEVELOPER;COMPETITIVE+PROGRAMMER" alt="Animated developer title"/>
-
-</div>
 
 
 ---
